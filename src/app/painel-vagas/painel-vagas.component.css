@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+    
+}
+.button1, .button2, .button3 {
+
+    background-color: #ff4800; 
+    border: none;
+    color: rgb(0, 0, 0);
+    padding: 10px 13px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 4px;
+    border-radius: 7px;
+    cursor: pointer;
+
+}
+
+.formulario {
+    margin-bottom: 12px;
+}
+
+.formulario label {
+    width: 10%;
+    font-size: 18px;
+
+}
+
+.formulario input {
+    width: 20%;
+    border: 1px solid #ccc;
+    height: 35px;
+    margin-top: 8px;
+    padding: 0 15px;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.form{
+    text-align: center;
+}
